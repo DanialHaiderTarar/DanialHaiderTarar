@@ -1,71 +1,138 @@
-  <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center">
-</p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
-<div size="20px"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Danial+Haider!;" />
+</h1>
+
+<h3 align="center">🚀 Passionate Machine Learning Developer</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 Currently mastering **Deep Learning**
+ 
+ 🌱 Building innovative projects in **Machine Learning**
+ 
+ 💬 Ask me about **Statistics, Python, C++, C#, C and ReactNative**
+ 
+ 📫 Reach me at: **danialtarar66@gmail.com**
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/danialtarar-das" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/danialtarar1" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
 </div>
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
-<ul>
-<li>
-<p>🔭 I’m currently working on  Soy Estudiante</p>
-</li>
-<li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
-</li>
-<li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
-</li>
-<li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
-</li>
-</ul>
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=reactjs&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=scikit&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=c&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=cpp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=pytorch&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=android&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=csharp&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg"> </a>
-<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
-<a href="https://www.linkedin.com/in/aditya-deshmukh-561a371a8"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
-<a href="https://www.twitter.com/NoobCoder07"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a> 
-<a href="https://medium.com/@adityadeshmukh7350"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a> 
-<a href="http://aditya664.me/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a> 
-<a href="https://www.github.com/Aditya664"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanialHaiderTarar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚡ About Me ⚡</h2>
+<br/>
+
+<p align="center">
+The world of Artificial Intelligence 🤖 and Data Science 📊 fascinates me, especially its ability to transform industries and solve real-world problems. From machine learning 🧠 and deep learning 💡 to natural language processing 📝 and computer vision 👀, I’m passionate about building intelligent models that learn from data, make accurate predictions 🔮, and continuously improve over time.
+As a Machine Learning Engineer, I enjoy working on end-to-end pipelines — from data preprocessing and feature engineering to model training, optimization, and deployment. The challenge of using algorithms to enhance decision-making, automate tasks 📈, and optimize complex processes 🔧 drives my curiosity.
+Beyond core AI, I’m also deeply interested in data-driven product development, exploring how insights can shape smarter business strategies and innovative solutions. Experimenting with cutting-edge frameworks and tools 🛠️, I aim to create scalable systems that bridge the gap between research and real-world applications.
+At the heart of my journey is a drive to keep learning, solving challenging problems, and pushing the boundaries of what’s possible in AI and Data Science 🚀.
+</p>
+
+
+
+<hr/>
+
+<h2 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h2>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br/>
+
+<!-- Tech Stack Section - Fixed to display icons in a single line -->
+<div align="center">
+    <h3>🔥 Tech Stack 🔥</h3>
+     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br/>
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+    </div>
+</div>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+  
+  <hr/>
+<!-- GitHub Stats Section - Fixed to display properly -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<br>
+
+<div align="center">
+    <h3>DanialHaiderTarar' GitHub Stats</h3>
+    <table>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Stars-0-blueviolet" alt="Total Stars" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-45-blue" alt="Total Commits" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20PRs-1-brightgreen" alt="Total PRs" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Total%20Issues-0-red" alt="Total Issues" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <img src="https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-green" alt="Contributed to" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanialHaiderTarar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" alt="stats"/>
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🏆 My GitHub Trophies 🏆</h2>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=DanialHaiderTarar&theme=radical&no-frame=true&no-bg=false&margin-w=4" width="100%" alt="Trophy" />
+</div>
 
+<hr/>
 
+<h2 align="center">📊 My Contribution Graph 📊</h2>
+<br/>
 
+![Danial HaiderTarar GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanialHaiderTarar&custom_title=Danial%20Haider's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Connect+with+me+on+LinkedIn!;Drop+me+a+message!">
+</h3>
 
-
-
-
-
-
-
-
-
-<table><thead><tr><th><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;theme=tokyonight" alt="Aditya's github stats"></th><th><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&amp;theme=tokyonight" alt="Aditya GitHub Streak"></th></tr></thead><tbody><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&amp;theme=tokyonight" alt="Top Langs"></td><td><img src="https://github-readme-stats.vercel.app/api?username=Aditya664&amp;show_icons=true&amp;locale=en&amp;count_private=true&amp;hide_rank=true&amp;custom_title=My%20GitHub%20Stats&amp;disable_animations=true&amp;theme=tokyonight" alt="Github Stars"></td></tr></tbody></table>
-<p><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></p>
-<br>
-<hr>
-<p>Credits: <a href="https://github.com/Aditya664">Aditya Deshmukh</a></p>
-<p>Last Edited on: 04/09/2021</p> 
+<br/>
