@@ -89,7 +89,7 @@ At the heart of my journey is a drive to keep learning, solving challenging prob
                 <img src="https://img.shields.io/badge/Total%20Stars-0-blueviolet" alt="Total Stars" />
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-45-blue" alt="Total Commits" />
+                <img src="https://img.shields.io/badge/Total%20Commits%20(2025)-12-blue" alt="Total Commits" />
             </td>
         </tr>
         <tr>
